@@ -16,7 +16,7 @@ gcc main.c tda.c funciones.c -o sistema_tickets.exe
 
 esto ejecutara el archivo sistema_tickets.exe y para ejecutar el programa utiliza : ./sistema_tickets.exe
 
-#FUNCIONAOLIDADES IMPLEMENTADAS :
+#FUNCIONALIDADES IMPLEMENTADAS :
 
 -Registrar nuevo ticket
 -Cambiar prioridad
